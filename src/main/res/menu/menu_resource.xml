@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/formula"
+        android:title="@string/menu_formula"
+        android:id="@+id/formula" />
+    <item
+        android:icon="@drawable/home"
+        android:id="@+id/main"
+        android:title="@string/menu_main"/>
+    <item
+        android:icon="@drawable/teacher"
+        android:id="@+id/teach"
+        android:title="@string/menu_teach"/>
+    <item
+        android:icon="@drawable/capture"
+        android:id="@+id/photo"
+        android:title="@string/menu_capture"/>
+
+</menu>

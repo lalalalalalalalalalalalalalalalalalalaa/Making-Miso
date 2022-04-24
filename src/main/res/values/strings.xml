@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">miso</string>
+    <string name="capture_unopen">相機功能未開啟</string>
+
+    <string name="notify_ttitle">製作味增大作戰</string>
+    <string name="notify_1_content">已經</string>
+    <string name="notify_2_content">天囉，記得檢查一下味增的狀況</string>
+
+    <string name="before_start">還沒有味增在製作喔~~</string>
+    <string name="starting1">已經製作</string>
+    <string name="starting2">天</string>
+    <string name="btn_starting">已經製作0天</string>
+
+    <string name="setting">設定</string>
+
+    <string name="misointriduce">味增是日本料理的主要配料之一，黃豆為主原料，加入鹽及不同的種麴發酵而成。蒸魚、肉、蔬菜時加入味噌、糖、醋等拌和的調味料，能使菜的味道更鮮美。</string>
+
+    <string name="step1_content">黃豆洗淨，用清水浸泡一夜，把壞豆和沒有泡發的黃豆挑出來，倒掉泡過的水</string>
+    <string name="step2_content">黃豆連同1500ml的清水煮沸，沸騰後改小火熬約30分鐘~1小時。黃豆輕易用手指捏碎即可離火</string>
+    <string name="step3_content">煮豆時，把米麴和海鹽A放入木盆中，混合均勻。用來保存的容器以噴霧器均勻噴上白酒</string>
+    <string name="step4_content">把煮軟的黃豆放進攪拌機中，加入約60ml煮黃豆的湯汁，攪打成幼滑的黃豆泥</string>
+    <string name="step5_content">把溫熱的黃豆泥放入盆內，用手混合攪拌至所有材料混合均勻</string>
+    <string name="step6_content">把黃豆泥分成約10份，向傳接球一樣，以兩手交替打拍出黃豆泥的空氣，塑成球狀，以拋擲的方式丟進保存容器底部，用手從上往下壓，盡量擠出黃豆泥的空氣，壓得緊密愈好，以免雜菌滋生。</string>
+    <string name="step7_content">抹平表面，把海鹽B均勻撒在黃豆泥表面，再鋪一層烘培紙，盡量不要讓空氣接觸到黃豆泥，用保鮮袋寶好陶瓷石壓在黃豆泥上(任何不會發霉的重物都可以)，蓋上保存容器的蓋子</string>
+    <string name="step8_content">用牛皮紙(遮光比較好)把整個容器包起來，以防灰塵砸進進入，寫上釀造日期，放在冷暗處，釀製最少9個月</string>
+
+    <string name="step1">步驟一</string>
+    <string name="step2">步驟二</string>
+    <string name="step3">步驟三</string>
+    <string name="step4">步驟四</string>
+    <string name="step5">步驟五</string>
+    <string name="step6">步驟六</string>
+    <string name="step7">步驟七</string>
+    <string name="step8">步驟八</string>
+
+    <string name="formula">配方</string>
+    <string name="formula_list1">材料</string>
+    <string name="formula_list2">作法</string>
+    <string name="formula_list_edt">編輯</string>
+
+    <string name="menu_formula">配方</string>
+    <string name="menu_main">主畫面</string>
+    <string name="menu_teach">教學</string>
+    <string name="menu_capture">拍照</string>
+
+    <string name="ricemiso">1.米味增:\n\t通常是發酵時間比較短，鹹味也較淡</string>
+    <string name="beanmiso">2.豆味增:\n\t通常味道比較濃厚，發酵時間也比較久</string>
+    <string name="wheatmiso">3.麥味增:\n\t由於熟成後沒有再加熱，又被稱為生味噌，適合做為沾醬使用</string>
+
+    <string name="misointroduce_title1">認識味增</string>
+    <string name="misointroduce_title2">味增的種類</string>
+    <string name="misointroduce_title3">口味的不同</string>
+    <string name="high_salt_miso">1.辛味增: 麴比黃豆少 辛口味(鹹的)</string>
+    <string name="sweet_miso">2.甘味增: 麴比黃豆多 甘口味(甜的)</string>
+
+
+    <string name="teach_title">八大步驟</string>
+    <string name="teach_step1">步驟一</string>
+    <string name="teach_step2">步驟二</string>
+    <string name="teach_step3">步驟三</string>
+    <string name="teach_step4">步驟四</string>
+    <string name="teach_step5">步驟五</string>
+    <string name="teach_step6">步驟六</string>
+    <string name="teach_step7">步驟七</string>
+    <string name="teach_step8">步驟八</string>
+    <string name="btn_teach">認識味增</string>
+
+    <string name="formula_list_edt_mateial">材料:</string>
+    <string name="formula_list_edt_howtodo">作法:</string>
+    <string name="btn_formula_list_edt_confirm">確定更改</string>
+
+    <string name="main_setting">設定</string>
+    <string name="btn_main_complete">完成啦~~</string>
+    <string name="btn_main_start">開始啦~~</string>
+
+    <string name="btn_dlg_back">返回</string>
+    <string name="txt_dlg_language">語言</string>
+    <string name="btn_dlg_twch">繁體中文</string>
+    <string name="btn_dlg_chch">簡體中文</string>
+    <string name="btn_dlg_english">English"</string>
+    <string name="txt_dlg_about_me">關於我</string>
+    <string name="btn_dlg_contact_me">聯絡我:\nqazse753735@\ngmail.com.tw</string>
+
+
+
+
+
+</resources>
