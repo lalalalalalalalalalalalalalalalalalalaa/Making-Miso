@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">miso</string>
+    <string name="capture_unopen">Camera function is not turned on</string>
+
+    <string name="notify_ttitle">Lets Making Japanese Miso</string>
+    <string name="notify_1_content">over</string>
+    <string name="notify_2_content">days, remember to check the Miso</string>
+
+    <string name="before_start">NO Miso making now</string>
+    <string name="starting1">already make Miso</string>
+    <string name="starting2">days</string>
+    <string name="btn_starting">already make Miso 0 days</string>
+
+    <string name="setting">setting</string>
+
+    <string name="misointriduce">Miso is one of the main ingredients in Japanese cuisine. Soybeans are the main raw material, which is fermented with salt and different kinds of koji. When steaming fish, meat, and vegetables, add miso, sugar, vinegar and other seasonings to make the dishes more delicious.</string>
+
+    <string name="step1_content">Wash the soybeans, soak them in water overnight, pick out the bad beans and the soybeans that have not been soaked, and pour out the soaked water</string>
+    <string name="step2_content">Boil the soybeans together with 1500ml of water. After boiling, change to low heat and simmer for about 30 minutes to 1 hour. The soybeans can be easily crushed with your fingers and can be removed from the fire</string>
+    <string name="step3_content">While the beans are cooking, put rice koji and sea salt A in a wooden bowl and mix well. The container used for preservation is evenly sprayed with liquor with a sprayer</string>
+    <string name="step4_content">Put the boiled soybeans into a blender, add about 60ml of boiled soybean soup, and blend into a smooth soybean paste</string>
+    <string name="step5_content">Put the warm mashed soybeans into a bowl and mix by hand until all the ingredients are well mixed</string>
+    <string name="step6_content">Divide the mashed soybeans into about 10 parts. Just like passing and catching a ball, tap the air of the mashed soybeans with both hands alternately, shape them into balls, and throw them into the bottom of the storage container by tossing them. Press down with your hands and squeeze as much as possible. The air that comes out of the mashed soybeans should be pressed as tightly as possible to prevent the growth of bacteria.</string>
+    <string name="step7_content">Smooth the surface, sprinkle sea salt B evenly on the surface of the mashed soybeans, then spread a layer of baking paper, try not to let the air touch the mashed soybeans, and use a fresh-keeping bag Baohao ceramic stone to press the mashed soybeans (any heavy objects that will not mold) either), close the lid of the storage container</string>
+    <string name="step8_content">Wrap the whole container with kraft paper (shading is better) to prevent dust from entering, write the brewing date, put it in a cool and dark place, and brew for at least 9 months</string>
+
+    <string name="step1">step1</string>
+    <string name="step2">step2</string>
+    <string name="step3">step3</string>
+    <string name="step4">step4</string>
+    <string name="step5">step5</string>
+    <string name="step6">step6</string>
+    <string name="step7">step7</string>
+    <string name="step8">step8</string>
+
+    <string name="formula">Formula</string>
+    <string name="formula_list1">Material</string>
+    <string name="formula_list2">practice</string>
+    <string name="formula_list_edt">Edit</string>
+
+    <string name="menu_formula">Formula</string>
+    <string name="menu_main">main screen</string>
+    <string name="menu_teach">teaching</string>
+    <string name="menu_capture">Photograph</string>
+
+    <string name="ricemiso">1.Rice Miso:\n\tUsually the fermentation time is shorter and the salty taste is less</string>
+    <string name="beanmiso">2.Soy Miso:\n\tUsually the taste is stronger and the fermentation time is longer</string>
+    <string name="wheatmiso">3.wheatmiso:\n\tBecause it is not reheated after aging, it is also called raw miso and is suitable for dipping sauce</string>
+
+    <string name="misointroduce_title1">What is miso</string>
+    <string name="misointroduce_title2">Types of Miso</string>
+    <string name="misointroduce_title3">Difference in taste</string>
+    <string name="high_salt_miso">1. Spicy Miso: Koji is less spicy than soybeans (salty)</string>
+    <string name="sweet_miso">2. Sweet Miso: Koji is more sweet than soybeans, sweet taste (sweet)</string>
+
+
+    <string name="teach_title">Eight steps</string>
+    <string name="teach_step1">First</string>
+    <string name="teach_step2">Second</string>
+    <string name="teach_step3">Third</string>
+    <string name="teach_step4">Fourth</string>
+    <string name="teach_step5">Fifth</string>
+    <string name="teach_step6">Sixth</string>
+    <string name="teach_step7">Seventh</string>
+    <string name="teach_step8">Eighth</string>
+    <string name="btn_teach">About</string>
+
+    <string name="formula_list_edt_mateial">Material:</string>
+    <string name="formula_list_edt_howtodo">practice:</string>
+    <string name="btn_formula_list_edt_confirm">Confirm</string>
+
+    <string name="main_setting">setting</string>
+    <string name="btn_main_complete">complete~~</string>
+    <string name="btn_main_start">start~~</string>
+
+    <string name="btn_dlg_back">back</string>
+    <string name="txt_dlg_language">language</string>
+    <string name="btn_dlg_twch">繁體中文</string>
+    <string name="btn_dlg_chch">簡體中文</string>
+    <string name="btn_dlg_english">English"</string>
+    <string name="txt_dlg_about_me">About Me</string>
+    <string name="btn_dlg_contact_me">Contact Me:\nqazse753735@\ngmail.com.tw</string>
+
+
+
+
+
+</resources>
